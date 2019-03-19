@@ -1,0 +1,30 @@
+/* Styles go here */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 36px;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 32px;
+  border-bottom: 1px solid grey;
+  margin-bottom: 8px;
+}
+#header {
+  text-align: center;
+  
+}
+#footer {
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 0px;
+}
+h5 {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+p #footer {
+  margin-top: 0px;
+}
